@@ -341,13 +341,13 @@ p粘贴文本
 [2] 选中对应文本复制
 ```
 
-(7) 进入homework_7文件夹，格式化source.cpp
+**(7) 进入homework_7文件夹**，格式化source.cpp
 
 ```
 gg=G
 ```
 
-(8) 进入homework_8文件夹，打开source.cpp，并依次执行如下操作：
+**(8) 进入homework_8文件夹**，打开source.cpp，并依次执行如下操作：
     [1] 将第15-21行向右缩进2次。
     [2] 将第22-23行向左缩进1次。
 
@@ -359,7 +359,7 @@ gg=G
 [2] 22G v 23G <
 ```
 
-(9) 进入homework_9文件夹，打开链接：https://www.acwing.com/activity/content/code/content/1694465/
+**(9) 进入homework_9文件夹**，打开链接：https://www.acwing.com/activity/content/code/content/1694465/
     新建文件source.cpp，将链接中的代码抄进source.cpp文件中。
 
 ```
